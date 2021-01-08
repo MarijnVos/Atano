@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/atano/static/css/main.c5bc7ad9.chunk.css",
-    "main.js": "/atano/static/js/main.53a6a1e9.chunk.js",
-    "main.js.map": "/atano/static/js/main.53a6a1e9.chunk.js.map",
+    "main.css": "/atano/static/css/main.0e0c8c28.chunk.css",
+    "main.js": "/atano/static/js/main.42ece0c7.chunk.js",
+    "main.js.map": "/atano/static/js/main.42ece0c7.chunk.js.map",
     "runtime-main.js": "/atano/static/js/runtime-main.01597b92.js",
     "runtime-main.js.map": "/atano/static/js/runtime-main.01597b92.js.map",
     "static/js/2.81636b8f.chunk.js": "/atano/static/js/2.81636b8f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cfa97c30.chunk.js": "/atano/static/js/3.cfa97c30.chunk.js",
     "static/js/3.cfa97c30.chunk.js.map": "/atano/static/js/3.cfa97c30.chunk.js.map",
     "index.html": "/atano/index.html",
-    "static/css/main.c5bc7ad9.chunk.css.map": "/atano/static/css/main.c5bc7ad9.chunk.css.map",
+    "static/css/main.0e0c8c28.chunk.css.map": "/atano/static/css/main.0e0c8c28.chunk.css.map",
     "static/js/2.81636b8f.chunk.js.LICENSE.txt": "/atano/static/js/2.81636b8f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/atano/static/media/Reef.bc84c79a.otf",
     "static/media/NavBar.css": "/atano/static/media/barbaro.4a65b6e3.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.01597b92.js",
     "static/js/2.81636b8f.chunk.js",
-    "static/css/main.c5bc7ad9.chunk.css",
-    "static/js/main.53a6a1e9.chunk.js"
+    "static/css/main.0e0c8c28.chunk.css",
+    "static/js/main.42ece0c7.chunk.js"
   ]
 }
